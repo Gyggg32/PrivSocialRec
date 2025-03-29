@@ -1,19 +1,72 @@
-# PrivSocialRec
-##### 本项目主要是实现了一个基于隐语平台的信息筛选推荐系统，并与情感分析结合，对于长期情绪消极的用户及时与平台反馈，达到关注并维护用户心理健康的目的。
+
+
+# PrivSocialRec——基于隐语平台和情感分析的社交媒体内容推荐系统
+
+
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<!-- PROJECT LOGO -->
+<br />
+
+
+<p align="center">
+  <a href="https://github.com/Gyggg32/PrivSocialRec">
+    <img src="https://pic1.zhimg.com/80/v2-a6c63dc2204523fc915aacdd91b3bd3c_1440w.webp" alt="Logo" width="120" height="120">
+  </a>
+
+  <h3 align="center">PrivSocialRec</h3>
+  <p align="center">
+    本项目主要是实现了一个基于隐语平台的信息筛选推荐系统，并与情感分析结合，对于长期情绪消极的用户及时与平台反馈，达到关注并维护用户心理健康的目的。
+
+</p>
+
+
 ## 具体工作
-##### 引入情感驱动的个性化推荐机制，利用自然语言处理技术进行情感分析，根据用户情绪状态动态调整推荐内容。
-##### 结合 DeepFM 算法和 BERT 模型，通过因子分解机和深度神经网络捕捉用户与内容的特征交互，提升推荐的精准度。
-##### 实现自学习模型，根据用户行为和反馈自适应调整推荐策略，确保推荐内容始终贴近用户的最新兴趣
+
+引入情感驱动的个性化推荐机制，利用自然语言处理技术进行情感分析，根据用户情绪状态动态调整推荐内容。
+
+结合 DeepFM 算法和 BERT 模型，通过因子分解机和深度神经网络捕捉用户与内容的特征交互，提升推荐的精准度。
+
+实现自学习模型，根据用户行为和反馈自适应调整推荐策略，确保推荐内容始终贴近用户的最新兴趣。
+
 ## 项目创新点
-##### 采用拆分学习模型，结合隐语平台的垂直联邦学习技术，实现跨域数据的分布式训练，保护用户隐私。
-##### 与情感驱动模型相结合，能够实时分析用户情感状态。
-##### 破除信息茧房的功能，引导用户探索未关注的帖子和子话题。
+采用拆分学习模型，结合隐语平台的垂直联邦学习技术，实现跨域数据的分布式训练，保护用户隐私。
+
+与情感驱动模型相结合，能够实时分析用户情感状态。
+
+破除信息茧房的功能，引导用户探索未关注的帖子和子话题。
+
 ## 项目代码说明
-### Emotion-Driven Recommendation .py
-##### 实现情感驱动模型的核心代码，用户在不需要主动向外界求助心理疏导的情况下，以平台作为心理咨询师的形式隐形的对用户进行情绪疏导，用户视角来看无外界干预。
-### splitrec.py
-#####
-### splitrec_pipeline_optimization.py
-##### 该段代码实现了流水线并行，大大提高了推荐系统的速度。
-### splitrec_qfp_optimization.py
-##### 
+Emotion-Driven Recommendation .py
+
+实现情感驱动模型的核心代码，用户在不需要主动向外界求助心理疏导的情况下，以平台作为心理咨询师的形式隐形的对用户进行情绪疏导，用户视角来看无外界干预。
+
+splitrec.py
+
+splitrec_pipeline_optimization.py
+
+该段代码实现了流水线并行，大大提高了推荐系统的速度。
+
+splitrec_qfp_optimization.py
+
+
+<!-- links -->
+[your-project-path]:/Gyggg32/PrivSocialRec
+[contributors-shield]: https://img.shields.io/github/contributors/Gyggg32/PrivSocialRec.svg?style=flat-square
+[contributors-url]: https://github.com/Gyggg32/PrivSocialRec/graphs/contributors
+[forks-shield]: https://github.com/Gyggg32/PrivSocialRec.svg?style=flat-square
+[forks-url]: https://github.com/Gyggg32/PrivSocialRec/network/members
+[stars-shield]: https://github.com/Gyggg32/PrivSocialRec.svg?style=flat-square
+[stars-url]: https://github.com/Gyggg32/PrivSocialRec/stargazers
+[issues-shield]: https://github.com/Gyggg32/PrivSocialRec.svg?style=flat-square
+[issues-url]: https://github.com/Gyggg32/PrivSocialRec.svg
+[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-url]: https://github.com/Gyggg32/PrivSocialRec/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/shaojintian
