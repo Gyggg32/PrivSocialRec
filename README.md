@@ -60,11 +60,11 @@ splitrec_qfp_optimization.py
 [your-project-path]:/Gyggg32/PrivSocialRec
 [contributors-shield]: https://img.shields.io/github/contributors/Gyggg32/PrivSocialRec.svg?style=flat-square
 [contributors-url]: https://github.com/Gyggg32/PrivSocialRec/graphs/contributors
-[forks-shield]: https://github.com/Gyggg32/PrivSocialRec.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/contributors/Gyggg32/PrivSocialRec.svg?style=flat-square
 [forks-url]: https://github.com/Gyggg32/PrivSocialRec/network/members
-[stars-shield]: https://github.com/Gyggg32/PrivSocialRec.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/contributors/Gyggg32/PrivSocialRec.svg?style=flat-square
 [stars-url]: https://github.com/Gyggg32/PrivSocialRec/stargazers
-[issues-shield]: https://github.com/Gyggg32/PrivSocialRec.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/contributors/Gyggg32/PrivSocialRec.svg?style=flat-square
 [issues-url]: https://github.com/Gyggg32/PrivSocialRec.svg
 [license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
 [license-url]: https://github.com/Gyggg32/PrivSocialRec/blob/main/LICENSE.txt
