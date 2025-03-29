@@ -35,12 +35,16 @@
 
 实现自学习模型，根据用户行为和反馈自适应调整推荐策略，确保推荐内容始终贴近用户的最新兴趣。
 
+<img src="https://pic2.zhimg.com/80/v2-45b4573aaa18c960fd139eb5bbfd4a2b_1440w.webp" alt="Project flow chart">
+
 ## 项目创新点
 采用拆分学习模型，结合隐语平台的垂直联邦学习技术，实现跨域数据的分布式训练，保护用户隐私。
 
 与情感驱动模型相结合，能够实时分析用户情感状态。
 
 破除信息茧房的功能，引导用户探索未关注的帖子和子话题。
+
+<img src="https://pic1.zhimg.com/80/v2-da2f05b91526d8348912f8631472034c_1440w.webp" alt="Project innovation point">
 
 ## 项目代码说明
 Emotion-Driven Recommendation .py
