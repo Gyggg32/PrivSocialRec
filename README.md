@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Gyggg32/PrivSocialRec">
-    <img src="https://pic3.zhimg.com/80/v2-00b161f4d53a6c09ed8eaa88e7a6d760_1440w.webp" alt="Logo" width="120" height="120">
+    <img src="https://pic3.zhimg.com/80/v2-00b161f4d53a6c09ed8eaa88e7a6d760_1440w.webp" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">PrivSocialRec</h3>
@@ -55,7 +55,9 @@ splitrec_pipeline_optimization.py
 
 splitrec_qfp_optimization.py
 
-##
+<img src="https://pic3.zhimg.com/80/v2-6d287ae6f15282c4d37846c6aa21c10c_1440w.webp" alt="qfp Optimization">
+
+## 演示视频
 点击查看[演示视频](https://www.zhihu.com/zvideo/1889295515868444670)
 
 
