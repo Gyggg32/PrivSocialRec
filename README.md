@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Gyggg32/PrivSocialRec">
-    <img src="https://pic1.zhimg.com/80/v2-a6c63dc2204523fc915aacdd91b3bd3c_1440w.webp" alt="Logo" width="120" height="120">
+    <img src="https://pic3.zhimg.com/80/v2-00b161f4d53a6c09ed8eaa88e7a6d760_1440w.webp" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">PrivSocialRec</h3>
@@ -54,6 +54,9 @@ splitrec_pipeline_optimization.py
 该段代码实现了流水线并行，大大提高了推荐系统的速度。
 
 splitrec_qfp_optimization.py
+
+##
+点击查看[演示视频](https://www.zhihu.com/zvideo/1889295515868444670)
 
 
 <!-- links -->
